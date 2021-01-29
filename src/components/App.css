@@ -1,0 +1,9 @@
+/* .switch-units:focus {
+  outline: lightgreen solid 2px;
+} */
+
+.switch-units:hover,
+.switch-units:active,
+.switch-units:focus {
+  outline: rgb(22, 168, 236) solid 2px;
+}
